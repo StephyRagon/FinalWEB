@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.formulario {
+  margin: 80px;
+  padding: 80px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.tarjeta {
+  margin: 80px;
+  padding: 80px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.tarjeta imagen{
+    width: 50%;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+button {
+  background-color: #FFC0CB;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color:#FFC0CB ;
+}
